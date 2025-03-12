@@ -1,10 +1,12 @@
 # 💫 About Me:
-🔭Sou desenvolvedor back-end<br>👯 Procuro emprego na área back-end<br>🤝 Estou procurando ajuda com desenvolvimento profissional e ferramentas especificas.<br>🌱 Atualmente estou estudando Python, Banco de dados Sql, Amazon AWS.<br>⚡ Sou dedicado, organizado e comunicativo, tenho rápido aprendizado. Sou formado em ADS, Técnico em TI e especialização em Python.
+🔭Sou desenvolvedor back-end<br>👯 Procuro emprego na área back-end<br>🤝 Estou procurando ajuda com desenvolvimento profissional e ferramentas especificas.<br>🌱 Atualmente estou estudando Python, Banco de dados, Django.<br>⚡ Sou formado em ADS e Técnico em
+TI, com dois anos de experiência como desenvolvedor autônomo. Meu foco é o Back-End, utilizando Python, Django, MySQL e PostgreSQL para criar aplicações web eficientes. Tenho conhecimento básico em HTML, CSS e JavaScript e aplico metodologias ágeis nos meus projetos. Estou sempre em constante aprendizado, buscando aprimorar minhas habilidades e explorar novas tecnologias.
+
 
 
 ## 🌐 Socials:
 LINKEDIN:
-https://www.linkedin.com/in/bruno-s-rodrigues-10798b1b2/
+www.linkedin.com/in/bruno-s-rodrigues-bruno-dev
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
