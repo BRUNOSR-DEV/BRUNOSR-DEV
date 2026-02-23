@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭Sou desenvolvedor back-end<br>👯 Procuro emprego na área back-end<br>🤝 Estou procurando ajuda com desenvolvimento profissional e ferramentas especificas.<br>🌱 Atualmente estou estudando Python, Banco de dados e Django Framework.<br>⚡ Sou formado em ADS e Técnico em
-TI, com dois anos de experiência como desenvolvedor autônomo. Meu foco é o Back-End, utilizando Python, Django, MySQL e PostgreSQL para criar aplicações web eficientes. Tenho conhecimento básico em HTML, CSS e JavaScript e aplico metodologias ágeis nos meus projetos. Estou sempre em constante aprendizado, buscando aprimorar minhas habilidades e explorar novas tecnologias.
+🔭Sou desenvolvedor com foco em back-end<br>👯 Procuro emprego na área back-end<br>🤝 Estou procurando ajuda com desenvolvimento profissional e ferramentas especificas.<br>🌱 Atualmente estudo Python, MySQL, Django,Métodos Ágeis.<br>⚡ Sou formado em ADS e Técnico em
+TI, com dois anos de experiência como desenvolvedor autônomo. Meu foco é o Back-End, utilizando Python, Django, MySQL e PostgreSQL para criar aplicações eficientes. Tenho conhecimento básico em HTML, CSS e JavaScript e aplico metodologias ágeis nos meus projetos. Estou sempre em constante aprendizado, buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
 
 
