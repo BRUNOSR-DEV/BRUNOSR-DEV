@@ -1,26 +1,71 @@
-# 💫 About Me:
-🔭Sou desenvolvedor com foco em back-end<br>👯 Procuro emprego na área back-end<br>🤝 Estou procurando ajuda com desenvolvimento profissional e ferramentas especificas.<br>🌱 Atualmente estudo Python, MySQL, Django,Métodos Ágeis.<br>⚡ Sou formado em ADS e Técnico em
-TI, com dois anos de experiência como desenvolvedor autônomo. Meu foco é o Back-End, utilizando Python, Django, MySQL e PostgreSQL para criar aplicações eficientes. Tenho conhecimento básico em HTML, CSS e JavaScript e aplico metodologias ágeis nos meus projetos. Estou sempre em constante aprendizado, buscando aprimorar minhas habilidades e explorar novas tecnologias.
+# Olá, eu sou o Bruno! 👋
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmN5N2R6M3N5YmN5N2R6M3N5YmN5N2R6M3N5YmN5N2R6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Dev Animation" />
+</div>
 
+<br>
 
-## 🌐 Socials:
-LINKEDIN:
-www.linkedin.com/in/bruno-s-rodrigues-bruno-dev
+Um apaixonado por **Engenharia de Software**, **Arquitetura de Sistemas** e **Cultura DevOps**. Meu foco está em construir ecossistemas de software resilientes, performáticos, altamente testados e comercialmente viáveis.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+Atualmente, estou lapidando minhas habilidades focando em boas práticas de Programação Orientada a Objetos (POO), integridade referencial de dados e automação de esteiras de CI/CD.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BRUNOSR-DEV&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎧 Além do Código (Meus Hobbies & Paixões)
+
+Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar:
+* **🕹️ No Mundo dos Games:** Fã de jogos que desafiam a lógica e a estratégia. Os games são meu laboratório de descanso e foco.
+* **⚡ Sintonizado na Música Eletrônica:** Amo música no geral, mas a vertente eletrônica é o combustível oficial que dita o ritmo dos meus commits e mantém o foco blindado durante os refactors.
+
+---
+
+## 🛠️ Stack Tecnológica & Habilidades em Lapidação
+
+* **Linguagens e Paradigmas:** Python 3.13 (Tipagem Estática Avançada, POO Avançada, Encapsulamento de Domínio).
+* **Bancos de Dados:** MySQL 8.0 (Modelagem Relacional, Star Schema, Otimização de Queries e Chaves Estrangeiras).
+* **DevOps & CI/CD:** GitHub Actions, Automação em Containers Docker, Isolamento de Ambientes Virtuais.
+* **Qualidade de Software (QA):** Testes de Integração com Banco Real, Testes Unitários, Mocks Temporários, Cobertura de Código (Coverage.py).
+* **Interface & UX/UI:** CustomTkinter/Tkinter Avançado, Padrão Mediator (Controllers), Gerenciamento de Estados de Memória Volátil.
+
+---
+
+## 🚀 Destaque de Engenharia Recente: AVIR AF (v2.0)
+
+Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a dia. O **AVIR AF** deixou de ser um app desktop comum para se tornar um tanque de guerra financeiro homologado na nuvem.
+
+* **Esteira DevOps na Nuvem (CI/CD):** Pipeline no GitHub Actions que levanta um container **Docker do MySQL 8.0** na nuvem e roda **23 testes automatizados** em menos de 1 minuto a cada commit.
+* **Sandbox de Projeção Financeira:** Mecanismo avançado que faz o *merge* em tempo de execução de dados reais do MySQL com inputs voláteis em memória RAM para simular o fluxo de caixa dos próximos 5 meses sem poluir o banco de dados.
+* **Inteligência Contábil & Caso Kratos:** Algoritmo de distribuição residual que utiliza `Decimal` (`quantize`) para interceptar dízimas de parcelamento e reinjetar sobras de centavos na última parcela, garantindo precisão contábil.
+
+👉 [Clique aqui para inspecionar a arquitetura completa do AVIR AF](https://github.com/BRUNOSR-DEV/app_financeiro)
+
+---
+
+## 📊 Minhas Estatísticas & Métricas de Desenvolvimento
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180em" />
+</div>
+
+### 🎮 O Jogo da Cobrinha (Meus Commits / Biscoitos)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake.gif" alt="GitHub Snake Game" />
+</div>
+
+---
+
+## 🎵 O que estou ouvindo no Spotify?
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=tokyonight&layout=compact&custom_title=G%C3%AAneros%20Musicais%20Favoritos&langs_count=6" alt="Top Gêneros" />
+</div>
+
+---
+
+## 🤝 Conecte-se Comigo
+
+* **LinkedIn:** [Seu Nome no LinkedIn](https://linkedin.com/in/seu-perfil)
+* **Quadro Trello de Projetos:** [Acompanhe minha gestão ágil](https://trello.com/b/PaYLzi3t/appfinanceiro)
+* **E-mail:** [seu-email@provedor.com]
