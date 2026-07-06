@@ -1,7 +1,7 @@
 # Olá, eu sou o Bruno! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmN5N2R6M3N5YmN5N2R6M3N5YmN5N2R6M3N5YmN5N2R6&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Dev Animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5Ym81dXRqOHh0Z3c1OTZhbGtqcXBrZXQzNWp2eTVpdWhtNnRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/938v9un60j7gc/giphy.gif" width="600" alt="Code Matrix" />
 </div>
 
 <br>
