@@ -1,8 +1,9 @@
 ## Olá, eu sou o Bruno! 👋
 
+
 <div align="center">
   <!-- Link bruto alternativo para forçar a quebra do cache do GitHub Camo -->
-  <img src="https://i.giphy.com/938v9un60j7gc.gif" width="600" alt="Code Matrix" />
+  <img src="https://github.com/user-attachments/assets/fda1e712-7efb-4043-b28d-692cc3aff4e8" width="600" alt="Code Matrix" />
 </div>
 
 <br>
@@ -56,9 +57,11 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 </div>
 
 ### 🎮 Meus Commits / Biscoitos
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake-dark.gif" alt="GitHub Snake Game Dark" />
-</div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ---
 
@@ -75,7 +78,16 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 
 ## 🤝 Conecte-se Comigo
 
-* **LinkedIn:** [Seu Nome no LinkedIn](https://linkedin.com/in/seu-perfil)
-* **Quadro Trello de Projetos:** [Acompanhe minha gestão ágil](https://trello.com/b/PaYLzi3t/appfinanceiro)
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+</div>
+
+* **LinkedIn:** [Bruno Rodrigues](www.linkedin.com/in/bruno-s-rodrigues-bruno-dev)
+* **Quadro Trello do último Projeto:** [Acompanhe minha gestão ágil](https://trello.com/b/PaYLzi3t/appfinanceiro)
 * **E-mail:** [seu-email@provedor.com]
 
