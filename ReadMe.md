@@ -56,6 +56,9 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
 </div>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div align="center">
   <!-- Streak Stats com o espelho estável -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="GitHub Streak" />
@@ -72,8 +75,9 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 
 <div align="center">
   <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
-  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  <img src="https://img.shields.io/badge/Gêneros-Electronic%20%2F%20Gaming-purple?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Gêneros" />
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 </div>
 
 ---
@@ -84,5 +88,3 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 * **Quadro Trello de Projetos:** [Acompanhe minha gestão ágil](https://trello.com/b/PaYLzi3t/appfinanceiro)
 * **E-mail:** [seu-email@provedor.com]
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
