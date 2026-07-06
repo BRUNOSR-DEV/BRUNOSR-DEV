@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Puxando o GIF direto do repositório local -->
-  <img src="assets/matrix.gif" width="600" alt="Code Matrix" />
+  <img src="assets/matrix.gif" width="400" alt="Code Matrix" />
 </div>
 
 <br>
@@ -58,14 +58,7 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 
 ### 🎮 Meus Commits / Biscoitos
 <div align="center">
-  <picture data-importer="pacman">
-    <!-- Se o usuário usar Modo Escuro (Dark), carrega a versão com fundo preto -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/pacman-dark.svg">
-    <!-- Se o usuário usar Modo Claro (Light), carrega a versão padrão -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/pacman.svg">
-    <!-- Fallback padrão caso o navegador não suporte a tag picture -->
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/pacman-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake-dark.gif" alt="GitHub Snake Game Dark" />
 </div>
 
 ---

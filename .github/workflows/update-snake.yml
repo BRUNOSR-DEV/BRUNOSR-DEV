@@ -1,10 +1,11 @@
-name: Generate Pacman Graph
+name: Generate Snake
 
 on:
   schedule: # Roda a cada 12 horas
     - cron: "0 */12 * * *"
   workflow_dispatch: # Permite rodar manualmente
 
+# Dá permissão explícita para a Action criar branches e commitar o GIF
 permissions:
   contents: write
 
@@ -12,15 +13,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4 # Atualizado v3 -> v4
       
-      # 🕹️ NOVO MOTOR ATUALIZADO: Usando uma versão ativa e estável do Pacman
-      - uses: caias/github-contribution-calendar-to-pacman@master
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_directory: dist
-
-      - uses: crazy-max/ghaction-github-pages@v4
+          outputs: |
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dar
+        
+      - uses: crazy-max/ghaction-github-pages@v4 # Atualizado v3 -> v4 (Suporte pleno a Node 24)
         with:
           target_branch: output
           build_dir: dist
