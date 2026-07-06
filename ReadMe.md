@@ -17,8 +17,23 @@ Atualmente, estou lapidando minhas habilidades focando em boas práticas de Prog
 Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar:
 * **🕹️ No Mundo dos Games:** Fã de jogos que desafiam a lógica e a estratégia. Os games são meu laboratório de descanso e foco.
 * **⚡ Sintonizado na Música Eletrônica:** Amo música no geral, mas a vertente eletrônica é o combustível oficial que dita o ritmo dos meus commits e mantém o foco blindado durante os refactors.
+  
+---
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ## 🛠️ Stack Tecnológica & Habilidades em Lapidação
 
