@@ -1,8 +1,8 @@
 ## Olá, eu sou o Bruno! 👋
 
 <div align="center">
-  <!-- GIF Limpo e Direto (Matrix Code) -->
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5Ym81dXRqOHh0Z3c1OTZhbGtqcXBrZXQzNWp2eTVpdWhtNnRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/938v9un60j7gc/giphy.gif" width="600" alt="Code Matrix" />
+  <!-- Link bruto e direto do Giphy sem tokens dinâmicos -->
+  <img src="https://media.giphy.com/media/938v9un60j7gc/giphy.gif" width="600" alt="Code Matrix" />
 </div>
 
 <br>
@@ -51,15 +51,17 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 ## 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
+  <!-- Usando o espelho estável da API com o tema tokyonight -->
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
 </div>
 
 <div align="center">
+  <!-- Streak Stats com o espelho estável -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-### 🎮 Meus Commits / Biscoitos
+### 🎮 O Jogo da Cobrinha (Meus Commits / Biscoitos)
 <div align="center">
   <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake-dark.gif" alt="GitHub Snake Game Dark" />
 </div>
@@ -69,11 +71,13 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 ## 🎧 Meu Spotify (Gêneros Favoritos)
 
 <div align="center">
-  <!-- Puxa um card customizado simulando seus gostos de música eletrônica -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=tokyonight&layout=compact&custom_title=G%C3%AAneros%20Musicais%20&langs_count=5" alt="Gêneros Musicais" />
-  <br/>
-  <!-- Card dinâmico para mostrar o que está tocando atualizado via API externa se configurado, ou um badge estiloso -->
-  <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?user=BRUNOSR-DEV&theme=tokyonight" alt="Tocando Agora no Spotify" />
+  <!-- Card de Gêneros Musicais usando o espelho estável da API -->
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=tokyonight&layout=compact&custom_title=G%C3%AAneros%20Musicais%20Favoritos&langs_count=5" alt="Gêneros Musicais" />
+  <br/><br/>
+  <!-- Badge Oficial do Spotify Estilizado (Substitui a API instável de 'now-playing') -->
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
+  </a>
 </div>
 
 ---
