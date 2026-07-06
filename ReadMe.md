@@ -1,8 +1,8 @@
 ## Olá, eu sou o Bruno! 👋
 
 <div align="center">
-  <!-- Link bruto e direto do Giphy sem tokens dinâmicos -->
-  <img src="https://media.giphy.com/media/938v9un60j7gc/giphy.gif" width="600" alt="Code Matrix" />
+  <!-- Link bruto alternativo para forçar a quebra do cache do GitHub Camo -->
+  <img src="https://i.giphy.com/938v9un60j7gc.gif" width="600" alt="Code Matrix" />
 </div>
 
 <br>
@@ -51,9 +51,9 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 ## 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
 <div align="center">
-  <!-- Usando o espelho estável da API com o tema tokyonight -->
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
+  <!-- Painel Dinâmico Alternativo de Alta Disponibilidade -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
 </div>
 
 <div align="center">
@@ -61,23 +61,19 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-### 🎮 O Jogo da Cobrinha (Meus Commits / Biscoitos)
+### 🎮 Meus Commits / Biscoitos
 <div align="center">
   <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake-dark.gif" alt="GitHub Snake Game Dark" />
 </div>
 
 ---
 
-## 🎧 Meu Spotify (Gêneros Favoritos)
+## 🎧 Meu Spotify & Identidade Visual
 
 <div align="center">
-  <!-- Card de Gêneros Musicais usando o espelho estável da API -->
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=tokyonight&layout=compact&custom_title=G%C3%AAneros%20Musicais%20Favoritos&langs_count=5" alt="Gêneros Musicais" />
-  <br/><br/>
-  <!-- Badge Oficial do Spotify Estilizado (Substitui a API instável de 'now-playing') -->
-  <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
-  </a>
+  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <img src="https://img.shields.io/badge/Gêneros-Electronic%20%2F%20Gaming-purple?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Gêneros" />
 </div>
 
 ---
