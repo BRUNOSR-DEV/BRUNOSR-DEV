@@ -50,19 +50,11 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 
 ## 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
-<div align="center">
-  <!-- Painel Dinâmico Alternativo de Alta Disponibilidade -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div align="center">
-  <!-- Streak Stats com o espelho estável -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ### 🎮 Meus Commits / Biscoitos
 <div align="center">
