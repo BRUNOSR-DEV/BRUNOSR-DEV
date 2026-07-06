@@ -59,10 +59,9 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-### 🎮 O Jogo da Cobrinha (Meus Commits / Biscoitos)
+### 🎮 Meus Commits / Biscoitos
 <div align="center">
-  <!-- Ele vai aparecer assim que a Action rodar pela primeira vez -->
-  <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake.gif" alt="O jogo da cobrinha aparecerá aqui assim que o workflow rodar" />
+  <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake-dark.gif" alt="GitHub Snake Game Dark" />
 </div>
 
 ---
