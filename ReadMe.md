@@ -84,3 +84,6 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 * **LinkedIn:** [Seu Nome no LinkedIn](https://linkedin.com/in/seu-perfil)
 * **Quadro Trello de Projetos:** [Acompanhe minha gestão ágil](https://trello.com/b/PaYLzi3t/appfinanceiro)
 * **E-mail:** [seu-email@provedor.com]
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
