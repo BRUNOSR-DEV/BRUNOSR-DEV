@@ -1,7 +1,8 @@
-# Olá, eu sou o Bruno! 👋
+## Olá, eu sou o Bruno! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5Ym81dXRqOHh0Z3c1OTZhbGtqcXBrZXQzNWp2eTVpdWhtNnRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/938v9un60j7gc/giphy.gif" width="600" alt="Code Matrix" />
+  <!-- GIF Limpo e Direto (Matrix Code) -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y5Ym81dXRqOHh0Z3c1OTZhbGtqcXBrZXQzNWp2eTVpdWhtNnRkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/938v9un60j7gc/giphy.gif" width="600" alt="Code Matrix" />
 </div>
 
 <br>
@@ -12,7 +13,7 @@ Atualmente, estou lapidando minhas habilidades focando em boas práticas de Prog
 
 ---
 
-## 🎧 Além do Código (Meus Hobbies & Paixões)
+### 🎧 Além do Código (Meus Hobbies & Paixões)
 
 Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar:
 * **🕹️ No Mundo dos Games:** Fã de jogos que desafiam a lógica e a estratégia. Os games são meu laboratório de descanso e foco.
@@ -20,20 +21,10 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
   
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 💻 Tech Stack Básica:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 
 ## 🛠️ Stack Tecnológica & Habilidades em Lapidação
 
@@ -60,21 +51,30 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 ## 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ### 🎮 O Jogo da Cobrinha (Meus Commits / Biscoitos)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake.gif" alt="GitHub Snake Game" />
+  <!-- Ele vai aparecer assim que a Action rodar pela primeira vez -->
+  <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake.gif" alt="O jogo da cobrinha aparecerá aqui assim que o workflow rodar" />
 </div>
 
 ---
 
-## 🎵 O que estou ouvindo no Spotify?
+## 🎧 Meu Spotify (Gêneros Favoritos)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=tokyonight&layout=compact&custom_title=G%C3%AAneros%20Musicais%20Favoritos&langs_count=6" alt="Top Gêneros" />
+  <!-- Puxa um card customizado simulando seus gostos de música eletrônica -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&theme=tokyonight&layout=compact&custom_title=G%C3%AAneros%20Musicais%20&langs_count=5" alt="Gêneros Musicais" />
+  <br/>
+  <!-- Card dinâmico para mostrar o que está tocando atualizado via API externa se configurado, ou um badge estiloso -->
+  <img src="https://novatorem-spotify-player.vercel.app/api/now-playing?user=BRUNOSR-DEV&theme=tokyonight" alt="Tocando Agora no Spotify" />
 </div>
 
 ---
