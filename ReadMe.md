@@ -3,7 +3,7 @@
 
 <div align="center">
   <!-- Link bruto alternativo para forçar a quebra do cache do GitHub Camo -->
-  <img src="https://github.com/user-attachments/assets/fda1e712-7efb-4043-b28d-692cc3aff4e8" width="600" alt="Code Matrix" />
+  <img width="692" height="388" alt="Image" src="https://github.com/user-attachments/assets/2a6adb44-c286-4d10-9388-dbe22a7e7a3f" />
 </div>
 
 <br>
@@ -57,11 +57,16 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 </div>
 
 ### 🎮 Meus Commits / Biscoitos
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+<div align="center">
+  <picture data-importer="pacman">
+    <!-- Se o usuário usar Modo Escuro (Dark), carrega a versão com fundo preto -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/pacman-dark.svg">
+    <!-- Se o usuário usar Modo Claro (Light), carrega a versão padrão -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/pacman.svg">
+    <!-- Fallback padrão caso o navegador não suporte a tag picture -->
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/pacman-dark.svg">
+  </picture>
+</div>
 
 ---
 
@@ -79,15 +84,35 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 ## 🤝 Conecte-se Comigo
 
 <div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <!-- LinkedIn (Já configurado com o seu link) -->
+  <a href="https://www.linkedin.com/in/bruno-s-rodrigues-bruno-dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
 
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <!-- Instagram (Substitua SEU_USER pelo seu @ do insta) -->
+  <a href="https://www.instagram.com/SEU_USER" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+
+  <!-- Discord (Substitua SEU_CONVITE ou link do perfil) -->
+  <a href="https://discord.gg/SEU_CONVITE" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+
+  <!-- Gmail (Abre o app de e-mail automaticamente para te mandar mensagem) -->
+  <a href="mailto:seu-email@provedor.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+
+  <!-- Youtube (Substitua LINK_DO_CANAL) -->
+  <a href="https://www.youtube.com/LINK_DO_CANAL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
 </div>
 
-* **LinkedIn:** [Bruno Rodrigues](www.linkedin.com/in/bruno-s-rodrigues-bruno-dev)
-* **Quadro Trello do último Projeto:** [Acompanhe minha gestão ágil](https://trello.com/b/PaYLzi3t/appfinanceiro)
-* **E-mail:** [seu-email@provedor.com]
+<br/>
+
+<div align="center">
+  📋 <b>Gestão e Projetos:</b> <a href="https://trello.com/b/PaYLzi3t/appfinanceiro" target="_blank">Quadro Trello do Último Projeto (Acompanhe minha gestão ágil)</a>
+</div>
 
