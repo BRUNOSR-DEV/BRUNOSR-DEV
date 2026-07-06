@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <!-- Link bruto alternativo para forçar a quebra do cache do GitHub Camo -->
-  <img width="692" height="388" alt="Image" src="https://github.com/user-attachments/assets/2a6adb44-c286-4d10-9388-dbe22a7e7a3f" />
+  <!-- Puxando o GIF direto do repositório local -->
+  <img src="assets/matrix.gif" width="600" alt="Code Matrix" />
 </div>
 
 <br>

@@ -14,8 +14,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # 🕹️ O NOVO MOTOR: Troca a cobrinha pelo Pacman
-      - uses: jasonlong/github-contribution-calendar-to-pacman@master
+      # 🕹️ NOVO MOTOR ATUALIZADO: Usando uma versão ativa e estável do Pacman
+      - uses: caias/github-contribution-calendar-to-pacman@master
         with:
           github_user_name: ${{ github.repository_owner }}
           output_directory: dist
