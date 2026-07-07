@@ -1,4 +1,5 @@
-## Olá, eu sou o Bruno! 👋
+## Olá, eu sou o Bruno! 👋 
+### Seja bem vindo 🤝
 
 
 <div align="center">
@@ -8,18 +9,20 @@
 
 <br>
 
-Um apaixonado por **Engenharia de Software**, **Arquitetura de Sistemas** e **Cultura DevOps**. Meu foco está em construir ecossistemas de software resilientes, performáticos, altamente testados e comercialmente viáveis.
+Desenvolvedor focado no ecossistema Python (Back-End), combinando raciocínio lógico rigoroso com uma forte capacidade de metacognição e resolução de problemas. Encaro desafios técnicos e de negócios sob a ótica da melhoria contínua, utilizando metodologias ágeis e aprendizado focado no contexto prático (Just-in-Time).
 
-Atualmente, estou lapidando minhas habilidades focando em boas práticas de Programação Orientada a Objetos (POO), integridade referencial de dados e automação de esteiras de CI/CD.
+Com mais de 130 dias de consistência ininterrupta em projetos pessoais, possuo resiliência testada para lidar com ambientes de alta pressão e decifrar bugs complexos em sistemas de múltiplas camadas. Busco autonomia, estabilidade e excelência técnica através do desenvolvimento de códigos limpos, funcionais e de alto valor agregado.
 
 ---
 
-### 🎧 Além do Código (Meus Hobbies & Paixões)
+### ⚡ Além do Código (Meus Hobbies & Paixões)
 
 Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar:
-* **🕹️ No Mundo dos Games:** Fã de jogos que desafiam a lógica e a estratégia. Os games são meu laboratório de descanso e foco.
-* **⚡ Sintonizado na Música Eletrônica:** Amo música no geral, mas a vertente eletrônica é o combustível oficial que dita o ritmo dos meus commits e mantém o foco blindado durante os refactors.
-  
+* **🏋️‍♂️ Na Academia :** Nosso corpo é nosso templo. É o meu hobby mais vital e constante; vai muito além da estética, é sobre saúde física e, principalmente, mental.
+* **🎧 Sintonizado na Música Eletrônica:** Amo música no geral, mas a vertente eletrônica é o combustível oficial que dita o ritmo dos meus commits e mantém o foco blindado durante os refactors. Gêneros favoritos: PsyTech, PsyTrance e Progressive House.
+* **🧠 Aprendendo Algo Novo:** Me apaixonei pelo processo de aprender. Nas horas vagas, me pego absorvendo novos conceitos de tecnologia, filosofia, neurociência, física, biologia, sociologia e história... O universo é fascinante.
+* **🕹️ No Mundo dos Games e Cultura Pop:** Fã de jogos que desafiam a lógica, a estratégia e a persistência (Soulslike). Consumo filmes e séries que estimulam o pensamento abstrato e científico (Sci-Fi). Esses são os meus laboratórios de descanso e foco.
+
 ---
 
 ### 💻 Tech Stack Básica:
@@ -31,21 +34,27 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 * **Linguagens e Paradigmas:** Python 3.13 (Tipagem Estática Avançada, POO Avançada, Encapsulamento de Domínio).
 * **Bancos de Dados:** MySQL 8.0 (Modelagem Relacional, Star Schema, Otimização de Queries e Chaves Estrangeiras).
-* **DevOps & CI/CD:** GitHub Actions, Automação em Containers Docker, Isolamento de Ambientes Virtuais.
+* **Automação de Testes & CI/CD:** GitHub Actions, Automação em Containers Docker, Isolamento de Ambientes Virtuais.
 * **Qualidade de Software (QA):** Testes de Integração com Banco Real, Testes Unitários, Mocks Temporários, Cobertura de Código (Coverage.py).
 * **Interface & UX/UI:** CustomTkinter/Tkinter Avançado, Padrão Mediator (Controllers), Gerenciamento de Estados de Memória Volátil.
 
 ---
 
-## 🚀 Destaque de Engenharia Recente: AVIR AF (v2.0)
+## 🚀 Destaque de Engenharia Recente: App Financeiro 
 
-Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a dia. O **AVIR AF** deixou de ser um app desktop comum para se tornar um tanque de guerra financeiro homologado na nuvem.
+Meu projeto principal reflete a maturidade técnica e os padrões rigorosos de engenharia que aplico no desenvolvimento de software. O **app_financeiro** foi desenhado para ir muito além de um CRUD desktop comum, consolidando-se como um ecossistema financeiro robusto, seguro e homologado na nuvem.
 
-* **Esteira DevOps na Nuvem (CI/CD):** Pipeline no GitHub Actions que levanta um container **Docker do MySQL 8.0** na nuvem e roda **23 testes automatizados** em menos de 1 minuto a cada commit.
-* **Sandbox de Projeção Financeira:** Mecanismo avançado que faz o *merge* em tempo de execução de dados reais do MySQL com inputs voláteis em memória RAM para simular o fluxo de caixa dos próximos 5 meses sem poluir o banco de dados.
-* **Inteligência Contábil & Caso Kratos:** Algoritmo de distribuição residual que utiliza `Decimal` (`quantize`) para interceptar dízimas de parcelamento e reinjetar sobras de centavos na última parcela, garantindo precisão contábil.
+* **Metodologia Ágil & Git Flow:** Projeto totalmente guiado por entregas incrementais baseadas em metodologias ágeis, com controle estrito de escopo por branches e validação contínua via Pull Requests.
 
-👉 [Clique aqui para inspecionar a arquitetura completa do AVIR AF](https://github.com/BRUNOSR-DEV/app_financeiro)
+* **Arquitetura Padrão Ouro & POO Avançada:**Organização impecável dividida em camadas desacopladas (models, utils, ui, tests). Aplicação estrita de Orientação a Objetos (POO), herança, encapsulamento, inversão de dependência e forte tipagem estática, garantindo manutenibilidade e fácil expansão do sistema.
+
+* **Segurança Baseada em Bcrypt:** Proteção real de dados com hashing assimétrico de senhas e um mecanismo inteligente de migração automática e transparente de credenciais legadas no primeiro login do usuário.
+
+* **Sandbox de Projeção Contábil:** Algoritmo avançado que realiza o merge em tempo de execução de dados reais do banco com inputs dinâmicos em memória RAM para simular o fluxo de caixa futuro. Utiliza precisão matemática via Decimal para interceptar dízimas e reinjetar centavos residuais na última parcela.
+
+* **QA (Quality Assurance) & Esteira CI/CD (GitHub Actions):** A confiabilidade, portabilidade e estabilidade do ecossistema são garantidas por uma estratégia moderna de QA (Quality Assurance). O projeto combina validações manuais (Testes Caixa Preta (Funcionais)) e uma suíte de 23 testes automatizados (Unitários + Integração) integrados a um pipeline de nuvem que homologa cada modificação no código em menos de 1 minuto.
+
+👉 [Clique aqui para inspecionar a arquitetura completa do app_financeiro](https://github.com/BRUNOSR-DEV/app_financeiro)
 
 ---
 
