@@ -52,6 +52,11 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="Sua Sequência de Commits" />
 </div>
 
+<div align="center">
+  <!-- Provedor de alta disponibilidade focado no seu histórico de Commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=BRUNOSR-DEV&theme=tokyonight" alt="Gasto de Commits Diários por Bruno" />
+</div>
+
 #### 🍪 Meus Commits / Biscoitos
 <div align="center">
   <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake-dark.gif" alt="GitHub Snake Game Dark" />
