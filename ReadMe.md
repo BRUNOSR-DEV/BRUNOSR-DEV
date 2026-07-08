@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Puxando o GIF direto do repositório local -->
-  <img src="assets/matrix.gif" width="500" alt="Code Matrix" />
+  <img src="assets/matrix.gif" width="500"  alt="Code Matrix" />
 </div>
 
 <br>
@@ -13,7 +13,7 @@ Com mais de 130 dias de consistência ininterrupta em projetos pessoais, possuo 
 
 ---
 
-## ⚡ Além do Código (Meus Hobbies & Paixões)
+### ⚡ Além do Código (Meus Hobbies & Paixões)
 
 Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar:
 
@@ -40,17 +40,17 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 ---
 
-## 💻 Tech Stack Básica:
+### 💻 Tech Stack Básica:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-## 📊 Minhas Estatísticas & Métricas de Desenvolvimento
+### 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
 <div align="center">
-
-  ![](https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+  <!-- Painel Dinâmico Alternativo de Alta Disponibilidade -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
 </div>
 
 #### 🍪 Meus Commits / Biscoitos
@@ -60,7 +60,7 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 ---
 
-## 🚀 Destaque de Engenharia Recente: App Financeiro 
+### 🚀 Destaque de Engenharia Recente: App Financeiro 
 
 Meu projeto principal reflete a maturidade técnica e os padrões rigorosos de engenharia que aplico no desenvolvimento de software. O **app_financeiro** foi desenhado para ir muito além de um CRUD desktop comum, consolidando-se como um ecossistema financeiro robusto, seguro e homologado na nuvem.
 
@@ -104,7 +104,7 @@ Meu projeto principal reflete a maturidade técnica e os padrões rigorosos de e
 
 ---
 
-## 🛠️ Stack Tecnológica & Habilidades em Lapidação
+### 🛠️ Stack Tecnológica & Habilidades em Lapidação
 
 * **Linguagens e Paradigmas:** Python 3.13 (Tipagem Estática Avançada, POO Avançada, Encapsulamento de Domínio).
 * **Bancos de Dados:** MySQL 8.0 (Modelagem Relacional, Star Schema, Otimização de Queries e Chaves Estrangeiras).
@@ -114,7 +114,7 @@ Meu projeto principal reflete a maturidade técnica e os padrões rigorosos de e
 
 ---
 
-## 🎧 Meu Spotify & Identidade Visual
+### 🎧 Meu Spotify & Identidade Visual
 
 <div align="center">
   <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
@@ -125,7 +125,7 @@ Meu projeto principal reflete a maturidade técnica e os padrões rigorosos de e
 
 ---
 
-## 🤝 Conecte-se Comigo
+### 🤝 Conecte-se Comigo
 
 <div data-importer="socials" align="center">
   <!-- LinkedIn (Já configurado com o seu link) -->
