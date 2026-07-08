@@ -48,17 +48,28 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ### 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
 <div align="center">
-  <!-- Card de Perfil Detalhado - Tema Tokyo Night (Super estável) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BRUNOSR-DEV&theme=tokyonight" alt="Status de Bruno" height="180" />
-  
-  <!-- Card de Principais Linguagens do mesmo provedor -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BRUNOSR-DEV&theme=tokyonight" alt="Linguagens Mais Utilizadas" height="180" />
+  <!-- 🔥 CARD DE CONSTÂNCIA EXCLUSIVO (Mostra sua sequência atual e recorde de dias seguidos) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="Sua Sequência de Commits" />
 </div>
 
 #### 🍪 Meus Commits / Biscoitos
 <div align="center">
   <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake-dark.gif" alt="GitHub Snake Game Dark" />
 </div>
+
+<div align="center">
+  <!-- Card de Perfil Detalhado - Tema Tokyo Night (Super estável) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BRUNOSR-DEV&theme=tokyonight" alt="Status de Bruno" height="180" />
+  
+  <!-- Card de Principais Linguagens do mesmo provedor -->
+  <details>
+  <summary><b>Linguagens Mais Utilizadas </b></summary>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BRUNOSR-DEV&theme=tokyonight" alt="Linguagens Mais Utilizadas" height="180" />
+  </details>
+
+</div>
+
+
 
 ---
 
