@@ -48,9 +48,11 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ### 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
 <div align="center">
-  <!-- Painel Dinâmico Alternativo de Alta Disponibilidade -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BRUNOSR-DEV&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Status do GitHub de Bruno" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOSR-DEV&layout=compact&theme=tokyonight&langs_count=5" alt="Linguagens Mais Utilizadas" height="180" />
+  <!-- Card de Perfil Detalhado - Tema Tokyo Night (Super estável) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BRUNOSR-DEV&theme=tokyonight" alt="Status de Bruno" height="180" />
+  
+  <!-- Card de Principais Linguagens do mesmo provedor -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BRUNOSR-DEV&theme=tokyonight" alt="Linguagens Mais Utilizadas" height="180" />
 </div>
 
 #### 🍪 Meus Commits / Biscoitos
