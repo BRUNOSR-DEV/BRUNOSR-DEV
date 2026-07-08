@@ -57,13 +57,14 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
   <img src="https://raw.githubusercontent.com/BRUNOSR-DEV/BRUNOSR-DEV/output/github-contribution-grid-snake-dark.gif" alt="GitHub Snake Game Dark" />
 </div>
 
+#### 📈 Curva de Crescimento Anual
 <div align="center">
   <!-- Card de Perfil Detalhado - Tema Tokyo Night (Super estável) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BRUNOSR-DEV&theme=tokyonight" alt="Status de Bruno" height="180" />
   
   <!-- Card de Principais Linguagens do mesmo provedor -->
   <details>
-  <summary><b>Linguagens Mais Utilizadas </b></summary>
+  <summary><b> 🐍​ Linguagens Mais Utilizadas 🖤</b></summary>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BRUNOSR-DEV&theme=tokyonight" alt="Linguagens Mais Utilizadas" height="180" />
   </details>
 
