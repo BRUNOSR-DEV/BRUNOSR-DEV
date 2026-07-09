@@ -47,10 +47,15 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 ### 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
+#### 🔗 Sequência Atual
+![](https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=dracula&hide_border=false)<br/>
+
+<!--
 <div align="center">
-  <!-- 🔥 CARD DE CONSTÂNCIA EXCLUSIVO (Mostra sua sequência atual e recorde de dias seguidos) -->
+  <!-- 🔥 CARD DE CONSTÂNCIA EXCLUSIVO (Mostra sua sequência atual e recorde de dias seguidos) 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="Sua Sequência de Commits" />
 </div>
+-->
 
 #### 🍪 Meus Commits / Biscoitos
 <div align="center">
@@ -69,8 +74,6 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
   </details>
 
 </div>
-
-
 
 ---
 
