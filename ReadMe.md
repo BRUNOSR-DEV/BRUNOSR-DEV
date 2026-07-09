@@ -15,8 +15,7 @@ Com mais de 130 dias de consistência ininterrupta em projetos pessoais, possuo 
 
 ### ⚡ Além do Código (Meus Hobbies & Paixões)
 
-Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar:
-
+Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar: `(Click/Toque no texto para mais detalhes)`
 
 <details>
   <summary><b>🏋️‍♂️ Na Academia </b></summary>
@@ -40,7 +39,7 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 ---
 
-### 💻 Tech Stack Básica:
+### 💻 Tecnologias que Manipulo:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
@@ -48,14 +47,12 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ### 📊 Minhas Estatísticas & Métricas de Desenvolvimento
 
 #### 🔗 Sequência Atual
-![](https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=dracula&hide_border=false)<br/>
 
-<!--
 <div align="center">
-  <!-- 🔥 CARD DE CONSTÂNCIA EXCLUSIVO (Mostra sua sequência atual e recorde de dias seguidos) 
+  <!-- 🔥 CARD DE CONSTÂNCIA EXCLUSIVO (Mostra sua sequência atual e recorde de dias seguidos) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BRUNOSR-DEV&theme=tokyonight" alt="Sua Sequência de Commits" />
 </div>
--->
+
 
 #### 🍪 Meus Commits / Biscoitos
 <div align="center">
@@ -77,10 +74,21 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 ---
 
-### 🚀 Destaque de Engenharia Recente: App Financeiro 
+### 🏔️ O Meu Maior Desafio de Engenharia (Até Então): App Financeiro 
 
-Meu projeto principal reflete a maturidade técnica e os padrões rigorosos de engenharia que aplico no desenvolvimento de software. O **app_financeiro** foi desenhado para ir muito além de um CRUD desktop comum, consolidando-se como um ecossistema financeiro robusto, seguro e homologado na nuvem.
+Este ecossistema representa o projeto mais complexo, robusto e completo da minha carreira até o momento. Longe de ser apenas um "projeto de tutorial", ele foi um verdadeiro divisor de águas que me testou ao limite.
 
+Durante o desenvolvimento, a fiação técnica foi o de menos. O verdadeiro desafio foi o fator humano:
+
+*   **A Barreira do Conhecimento:** Esbarrar em conceitos complexos de arquitetura desacoplada, melhores práticas do mercado e conceitos de desenvolvimento profissionais.
+*   **A Gestão da Frustração:** Lidar com bugs de banco de dados, falhas de lógica, comportamento da IDE e erros de digitação... e aprender a não se deixar abalar pelo problema, mas usá-lo como combustível para o crescimento técnico.
+*   **O Combate à Procrastinação:** Manter a disciplina viva mesmo quando o caminho parecia travado. A mente humana busca poupar energia por padrão; por isso, perseguir a verdadeira constância e o progresso diário é, de fato, um dos maiores desafios.
+
+**Como venci?** Não desisti. Diante do desconhecido, recuei um passo, me informei por meio de pesquisa direcionada, organizei o fluxo de trabalho (metodologia ágil via Kanban), raciocinei sobre as regras de negócio e complexidades técnicas, desenhei diagramas (DER) e projetei a solução antes de codar.
+
+A área de desenvolvimento de software é inegavelmente difícil; ela pune o amadorismo, a falta de constância e a ausência de prática. No entanto, este projeto é a prova de que escolhi o meu caminho com convicção. Estou firme, forte e marchando nele. Até o fim.
+
+`(Click/Toque no texto para mais detalhes)`
 <details>
   <summary><b>🔄 Metodologia Ágil & Git Flow</b></summary>
   <p>Projeto totalmente guiado por entregas incrementais baseadas em metodologias ágeis, com controle estrito de escopo por branches e validação contínua via Pull Requests.</p>
