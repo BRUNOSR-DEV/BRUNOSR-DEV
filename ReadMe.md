@@ -15,8 +15,9 @@ Com mais de 130 dias de consistência ininterrupta em projetos pessoais, possuo 
 
 ### ⚡ Além do Código (Meus Hobbies & Paixões)
 
-Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar: `(Click/Toque no texto para mais detalhes)`
+Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar: 
 
+`*Click/Toque no texto para mais detalhes`
 <details>
   <summary><b>🏋️‍♂️ Na Academia </b></summary>
   <p>Nosso corpo é nosso templo. É o meu hobby mais vital e constante; vai muito além da estética, é sobre saúde física e, principalmente, mental.</p>
@@ -74,7 +75,7 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 ---
 
-### 🏔️ O Meu Maior Desafio de Engenharia (Até Então): App Financeiro 
+### 🏔️ O Meu Maior Desafio de Engenharia (Até Então): **App Financeiro** 
 
 Este ecossistema representa o projeto mais complexo, robusto e completo da minha carreira até o momento. Longe de ser apenas um "projeto de tutorial", ele foi um verdadeiro divisor de águas que me testou ao limite.
 
@@ -88,7 +89,7 @@ Durante o desenvolvimento, a fiação técnica foi o de menos. O verdadeiro desa
 
 A área de desenvolvimento de software é inegavelmente difícil; ela pune o amadorismo, a falta de constância e a ausência de prática. No entanto, este projeto é a prova de que escolhi o meu caminho com convicção. Estou firme, forte e marchando nele. Até o fim.
 
-`(Click/Toque no texto para mais detalhes)`
+`*Click/Toque no texto para mais detalhes`
 <details>
   <summary><b>🔄 Metodologia Ágil & Git Flow</b></summary>
   <p>Projeto totalmente guiado por entregas incrementais baseadas em metodologias ágeis, com controle estrito de escopo por branches e validação contínua via Pull Requests.</p>
@@ -139,17 +140,6 @@ A área de desenvolvimento de software é inegavelmente difícil; ela pune o ama
 
 ---
 
-### 🎧 Meu Spotify & Identidade Visual
-
-<div align="center">
-  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-</div>
-
----
-
 ### 🤝 Conecte-se Comigo
 
 <div data-importer="socials" align="center">
@@ -184,4 +174,19 @@ A área de desenvolvimento de software é inegavelmente difícil; ela pune o ama
 <div align="center">
   📋 <b>Gestão e Projetos:</b> <a href="https://trello.com/b/PaYLzi3t/appfinanceiro" target="_blank">Quadro Trello do Último Projeto (Acompanhe minha gestão ágil)</a>
 </div>
+
+---
+
+### 🎧 Meu Spotify & Identidade Visual
+
+<div align="center">
+  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
+<div data-importer="music" align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+</div>
+
+---
+
+
 
