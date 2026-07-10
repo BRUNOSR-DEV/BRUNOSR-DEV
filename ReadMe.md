@@ -17,7 +17,7 @@ Com mais de 130 dias de consistência ininterrupta em projetos pessoais, possuo 
 
 Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar: 
 
-`*Click/Toque no texto para mais detalhes`
+`*💡 Clique/Toque nos blocos abaixo para expandir os detalhes*
 <details>
   <summary><b>🏋️‍♂️ Na Academia </b></summary>
   <p>Nosso corpo é nosso templo. É o meu hobby mais vital e constante; vai muito além da estética, é sobre saúde física e, principalmente, mental.</p>
@@ -89,7 +89,7 @@ Durante o desenvolvimento, a fiação técnica foi o de menos. O verdadeiro desa
 
 A área de desenvolvimento de software é inegavelmente difícil; ela pune o amadorismo, a falta de constância e a ausência de prática. No entanto, este projeto é a prova de que escolhi o meu caminho com convicção. Estou firme, forte e marchando nele. Até o fim.
 
-`*Click/Toque no texto para mais detalhes`
+`*💡 Clique/Toque nos blocos abaixo para expandir os detalhes*
 <details>
   <summary><b>🔄 Metodologia Ágil & Git Flow</b></summary>
   <p>Projeto totalmente guiado por entregas incrementais baseadas em metodologias ágeis, com controle estrito de escopo por branches e validação contínua via Pull Requests.</p>
@@ -130,13 +130,73 @@ A área de desenvolvimento de software é inegavelmente difícil; ela pune o ama
 
 ---
 
-### 🛠️ Stack Tecnológica & Habilidades em Lapidação
+### 🛠️ Lapidação & Novos Desafios
 
-* **Linguagens e Paradigmas:** Python 3.13 (Tipagem Estática Avançada, POO Avançada, Encapsulamento de Domínio).
-* **Bancos de Dados:** MySQL 8.0 (Modelagem Relacional, Star Schema, Otimização de Queries e Chaves Estrangeiras).
-* **Automação de Testes & CI/CD:** GitHub Actions, Automação em Containers Docker, Isolamento de Ambientes Virtuais.
-* **Qualidade de Software (QA):** Testes de Integração com Banco Real, Testes Unitários, Mocks Temporários, Cobertura de Código (Coverage.py).
-* **Interface & UX/UI:** CustomTkinter/Tkinter Avançado, Padrão Mediator (Controllers), Gerenciamento de Estados de Memória Volátil.
+#### Lapidação: Tecnologias & Habilidades em Prática
+
+Ferramentas e competências engenheiradas no meu dia a dia. Foco em dominar regras complexas e padrões de mercado de ponta a ponta.
+
+*💡 Clique/Toque nos blocos abaixo para expandir os detalhes técnicos:*
+<details>
+  <summary><b>🌐 Versionamento & Colaboração: <strong>Git & GitHub</strong></b></summary>
+  <p>Domínio em gerenciamento de código em nuvem utilizando fluxo de trabalho profissional (Git Flow), arquitetura de branches estruturadas e boas práticas de colaboração para atuação em equipes de engenharia.</p>
+</details>
+
+<details>
+  <summary><b>📇 Organização & Processos: <strong>Metodologia Ágil & Arquitetura Limpa</strong></b></summary>
+  <p>Gestão visual avançada e previsibilidade de entregas utilizando quadros Kanban (Trello) e cerimônias de Sprints. Aplicação prática de Arquitetura de Software com diretórios desacoplados, separação de responsabilidades e controle estrito de dependências para facilitar a manutenibilidade.</p>
+</details>
+
+<details>
+  <summary><b>🐍 Desenvolvimento Back-End: <strong>Python Avançado</strong></b></summary>
+  <p>Arquitetura lógica robusta aplicando os pilares da Orientação a Objetos (POO): herança, encapsulamento, polimorfismo e inversão de dependência com forte tipagem estática. Implementação de sanitização proativa de dados, orquestração de interfaces, rotinas de Hot-Reload e criptografia assimétrica de alta segurança com Bcrypt.</p>
+</details>
+
+<details>
+  <summary><b>🛢️ Engenharia de Dados: <strong>MySQL Relacional</strong></b></summary>
+  <p>Concepção, modelagem e design completo da infraestrutura de dados. Desenvolvimento de Diagramas de Entidade-Relacionamento (DER), mapeamento de cardinalidade (1:N), chaves primárias/estrangeiras e constraints de integridade referencial. Construção de queries otimizadas via código Python nativo.</p>
+</details>
+
+<details>
+  <summary><b>🎨 Interface & Engenharia de UI/UX: <strong>CustomTkinter / Tkinter</strong></b></summary>
+  <p>Construção de interfaces gráficas desktop modernas utilizando o padrão arquitetural Mediator (Controllers) e gerenciamento de estado em memória volátil. Integração analítica com plotagem de gráficos dinâmicos via Matplotlib e imersão sensorial não-bloqueante utilizando áudio multi-thread com Pygame.</p>
+</details>
+
+<details>
+  <summary><b>🧪 Engenharia de QA: <strong>Qualidade de Software & Automação</strong></b></summary>
+  <p>Cultura de qualidade de software ponta a ponta: validações manuais estruturadas (Testes Caixa Preta), testes de integração com banco de dados real, testes unitários isolados com Mocks temporários, análise de cobertura de código via Coverage.py e automação de esteira na nuvem via CI/CD com GitHub Actions.</p>
+</details>
+
+<details>
+  <summary><b>🏈​ Segunda Língua: <strong>Inglês</strong></b></summary>
+  <p>Estudo focado e prático do idioma inglês com o objetivo de performar em ambientes corporativos globais. Desenvolvimento contínuo de leitura, escrita e conversação técnica através de ferramentas de imersão diária e inteligência artificial.</p>
+</details>
+
+---
+
+#### Novos Desafios: Busca por Conhecimentos & Projetos
+
+Alguns dos próximos marcos estratégicos traçados para a consolidação da minha carreira.
+
+<details>
+  <summary><b>🗣️ Fluência e Comunicação Global: <strong>Inglês Avançado</strong></b></summary>
+  <p>Um dos meus focos principais de desenvolvimento profissional e pessoal. Mantenho uma rotina ininterrupta de consistência e prática diária para alcançar a fluência e a capacidade de negociação técnica internacional.</p>
+</details>
+
+<details>
+  <summary><b>☁️ Infraestrutura Moderna: <strong>DevOps & Certificação AWS</strong></b></summary>
+  <p>Especialização no ecossistema de computação em nuvem (Cloud Computing). Alinhamento de competências para dominar esteiras avançadas de CI/CD, provisionamento de microsserviços e infraestrutura resiliente para o mercado de alta tecnologia.</p>
+</details>
+
+<details>
+  <summary><b>🏗️ Repositório Estratégico: <strong>Projeto Fundação</strong></b></summary>
+  <p>Desenvolvimento de um ecossistema base de arquitetura limpa. O projeto servirá como um laboratório pessoal para testar algoritmos complexos, novas tecnologias e funcionar como uma biblioteca própria de componentes reutilizáveis de alta performance para soluções rápidas de engenharia.</p>
+</details>
+
+<details>
+  <summary><b>🧠 Engenharia Mental: <strong>Algoritmos de Resolução de Problemas</strong></b></summary>
+  <p>Desenvolvimento de um framework mental avançado focado na otimização da resolução de problemas complexos de software. Estudo em paralelo fundamentos de neurociência cognitiva aplicados à disciplina, controle de foco e eficiência computacional humana.</p>
+</details>
 
 ---
 
