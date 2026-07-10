@@ -17,7 +17,7 @@ Com mais de 130 dias de consistência ininterrupta em projetos pessoais, possuo 
 
 Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar: 
 
-`*💡 Clique/Toque nos blocos abaixo para expandir os detalhes:*`
+`💡Clique/Toque nos blocos abaixo para expandir os detalhes:💡`
 <details>
   <summary><b>🏋️‍♂️ Na Academia </b></summary>
   <p>Nosso corpo é nosso templo. É o meu hobby mais vital e constante; vai muito além da estética, é sobre saúde física e, principalmente, mental.</p>
@@ -34,7 +34,7 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 </details>
 
 <details>
-  <summary><b>🕹️ No Mundo dos Games e Cultura Pop </b></summary>
+  <summary><b>🎮​ No Mundo dos Games e Cultura Pop </b></summary>
   <p>Fã de jogos que desafiam a lógica, a estratégia e a persistência (Soulslike). Consumo filmes e séries que estimulam o pensamento abstrato e científico (Sci-Fi). Esses são os meus laboratórios de descanso e foco.</p>
 </details>
 
@@ -89,8 +89,8 @@ Durante o desenvolvimento, a fiação técnica foi o de menos. O verdadeiro desa
 
 A área de desenvolvimento de software é inegavelmente difícil; ela pune o amadorismo, a falta de constância e a ausência de prática. No entanto, este projeto é a prova de que escolhi o meu caminho com convicção. Estou firme, forte e marchando nele. Até o fim.
 
-
-`*💡 Clique/Toque nos blocos abaixo para expandir os detalhes técnicos:*`
+**Detalhes Técnicos do Projeto:**
+`💡Clique/Toque nos blocos abaixo para expandir os detalhes técnicos:💡`
 <details>
   <summary><b>🔄 Metodologia Ágil & Git Flow</b></summary>
   <p>Projeto totalmente guiado por entregas incrementais baseadas em metodologias ágeis, com controle estrito de escopo por branches e validação contínua via Pull Requests.</p>
@@ -137,7 +137,7 @@ A área de desenvolvimento de software é inegavelmente difícil; ela pune o ama
 
 Ferramentas e competências engenheiradas no meu dia a dia. Foco em dominar regras complexas e padrões de mercado de ponta a ponta.
 
-`*💡 Clique/Toque nos blocos abaixo para expandir os detalhes técnicos:*`
+`💡Clique/Toque nos blocos abaixo para expandir os detalhes técnicos:💡`
 <details>
   <summary><b>🌐 Versionamento & Colaboração: <strong>Git & GitHub</strong></b></summary>
   <p>Domínio em gerenciamento de código em nuvem utilizando fluxo de trabalho profissional (Git Flow), arquitetura de branches estruturadas e boas práticas de colaboração para atuação em equipes de engenharia.</p>
