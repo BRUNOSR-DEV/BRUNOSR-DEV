@@ -51,27 +51,27 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
   <!-- Bloco Python -->
   <div style="display: inline-block; text-align: center; margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" width="30" height="50" alt="Python" />
-    <br><b>Python</b>
+    <b>Python</b>
   </div>
   <!-- Bloco MySQL -->
   <div style="display: inline-block; text-align: center; margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="30" height="50" alt="MySQL" />
-    <br><b>MySQL</b>
+    <b>MySQL</b>
   </div>
   <!-- Bloco Git -->
   <div style="display: inline-block; text-align: center; margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=git&theme=dark" width="30" height="50" alt="Git" />
-    <br><b>Git</b>
+    <b>Git</b>
   </div>
   <!-- Bloco GitHub -->
   <div style="display: inline-block; text-align: center; margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30" height="50" alt="GitHub" />
-    <br><b>GitHub</b>
+    <b>GitHub</b>
   </div>
   <!-- Bloco GitHub Actions -->
   <div style="display: inline-block; text-align: center; margin: 0 15px;">
     <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="30" height="50" alt="GitHub Actions" />
-    <br><b>Actions</b>
+    <b>Actions</b>
   </div>
 </div>
 
