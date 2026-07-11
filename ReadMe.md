@@ -44,16 +44,16 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 -->
 
-### 🛠️ Pilha Tecnológica & Ferramentas
+### 🛠️ Stack Tecnológico & Ferramentas
 
 <div align="center">
-  <!-- Linha 1: Core, Frameworks e Bancos de Dados -->
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,mysql,postgres,git&theme=dark" height="40" alt="Tech Stack Linha 1" />
+  <!-- Linha 1: Core, Frameworks e Bancos de Dados (8 ícones) -->
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,mysql,postgres,git&theme=dark" height="50" alt="Tech Stack Linha 1" />
   
   <br/>
   
-  <!-- Linha 2: Ferramentas, Ambientes, DevOps e Produtividade -->
-  <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,pycharm,visualstudio,trello,canva,windows&theme=dark" height="40" alt="Tech Stack Linha 2" />
+  <!-- Linha 2: Ferramentas, Ambientes, DevOps e Produtividade (8 ícones corrigidos) -->
+  <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,pycharm,visualstudio,windows,trello,canva&theme=dark" height="50" alt="Tech Stack Linha 2" />
 </div>
 
 ---
