@@ -44,81 +44,16 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 -->
 
-### 🛠️ Stack Tecnológico & Ferramentas
+### 🛠️ Pilha Tecnológica & Ferramentas
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <!-- PRIMEIRA LINHA: Linguagens e Bancos de Dados -->
-    <tr style="border: none;">
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" height="40" alt="Python" />
-        <br><b>Python</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=django&theme=dark" width="40" height="40" alt="Django" />
-        <br><b>Django</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="40" height="40" alt="JavaScript" />
-        <br><b>JavaScript</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" alt="HTML" />
-        <br><b>HTML 5</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" alt="CSS" />
-        <br><b>CSS 3</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" height="40" alt="MySQL" />
-        <br><b>MySQL</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" alt="PostgreSQL" />
-        <br><b>PostgreSQL</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" alt="Git" />
-        <br><b>Git</b>
-      </td>
-    </tr>
-    <!-- SEGUNDA LINHA: Ambientes, DevOps e Organização -->
-    <tr style="border: none;">
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub" />
-        <br><b>GitHub</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" height="40" alt="GitHub Actions" />
-        <br><b>Actions</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="40" height="40" alt="VS Code" />
-        <br><b>VS Code</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" width="40" height="40" alt="PyCharm" />
-        <br><b>PyCharm</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="40" height="40" alt="Visual Studio" />
-        <br><b>V. Studio</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=trello&theme=dark" width="40" height="40" alt="Trello" />
-        <br><b>Trello</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=canva&theme=dark" width="40" height="40" alt="Canva" />
-        <br><b>Canva</b>
-      </td>
-      <td align="center" width="100" style="border: none; background: none;">
-        <img src="https://skillicons.dev/icons?i=windows&theme=dark" width="40" height="40" alt="Windows" />
-        <br><b>Windows</b>
-      </td>
-    </tr>
-  </table>
+  <!-- Linha 1: Core, Frameworks e Bancos de Dados -->
+  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,mysql,postgres,git&theme=dark" height="40" alt="Tech Stack Linha 1" />
+  
+  <br/>
+  
+  <!-- Linha 2: Ferramentas, Ambientes, DevOps e Produtividade -->
+  <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,pycharm,visualstudio,trello,canva,windows&theme=dark" height="40" alt="Tech Stack Linha 2" />
 </div>
 
 ---
