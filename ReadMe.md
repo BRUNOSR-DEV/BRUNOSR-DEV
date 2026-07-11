@@ -43,6 +43,30 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ### 💻 Tecnologias que Manipulo:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+## 🛠️ Stack Tecnológico & Ferramentas
+
+<div align="center">
+
+  <!-- Core & Linguagens -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  
+  <!-- Banco de Dados -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <!-- Interface & Gráficos -->
+  <img src="https://img.shields.io/badge/Tkinter-💡-00599C?style=for-the-badge" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  
+  <!-- Engenharia de QA & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  
+  <!-- Ferramentas de Gestão & Criação -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+
+</div>
+
 ---
 
 ### 📊 Minhas Estatísticas & Métricas de Desenvolvimento
@@ -89,7 +113,7 @@ Durante o desenvolvimento, a fiação técnica foi o de menos. O verdadeiro desa
 
 A área de desenvolvimento de software é inegavelmente difícil; ela pune o amadorismo, a falta de constância e a ausência de prática. No entanto, este projeto é a prova de que escolhi o meu caminho com convicção. Estou firme, forte e marchando nele. Até o fim.
 
-**Detalhes Técnicos do Projeto:**
+**Detalhes Técnicos do Projeto:**<br>
 `💡Clique/Toque nos blocos abaixo para expandir os detalhes técnicos:💡`
 <details>
   <summary><b>🔄 Metodologia Ágil & Git Flow</b></summary>
@@ -133,7 +157,7 @@ A área de desenvolvimento de software é inegavelmente difícil; ela pune o ama
 
 ### 🛠️ Lapidação & Novos Desafios
 
-#### **Lapidação: Tecnologias & Habilidades em Prática**
+#### *Lapidação: Tecnologias & Habilidades em Prática*
 
 Ferramentas e competências engenheiradas no meu dia a dia. Foco em dominar regras complexas e padrões de mercado de ponta a ponta.
 
@@ -175,7 +199,7 @@ Ferramentas e competências engenheiradas no meu dia a dia. Foco em dominar regr
 
 ---
 
-#### **Novos Desafios: Busca por Conhecimentos & Projetos**
+#### *Novos Desafios: Busca por Conhecimentos & Projetos*
 
 Alguns dos próximos marcos estratégicos traçados para a consolidação da minha carreira.
 
@@ -246,6 +270,12 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 </div>
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&unique={true|1|on|yes})
 
 ---
 
