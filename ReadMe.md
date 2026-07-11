@@ -55,25 +55,21 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
         <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python" />
         <br><b>Python</b>
       </td>
-      
       <!-- Ícone 2: MySQL -->
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="MySQL" />
         <br><b>MySQL</b>
       </td>
-      
       <!-- Ícone 3: Git -->
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git" />
         <br><b>Git</b>
       </td>
-      
       <!-- Ícone 4: GitHub -->
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" />
         <br><b>GitHub</b>
       </td>
-      
       <!-- Ícone 5: GitHub Actions -->
       <td align="center" width="110">
         <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="50" height="50" alt="GitHub Actions" />
