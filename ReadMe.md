@@ -45,9 +45,42 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 ### 🛠️ Stack Tecnológico & Ferramentas
 
-<div align="left">
-  <!-- Ícones em Grid Quadrado com Bordas (Padrão Tokyo Night) -->
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,githubactions,trello&theme=dark&perline=6" alt="Meu Stack Tecnológico" />
+### 🛠️ Stack Tecnológico & Ferramentas
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Ícone 1: Python -->
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" height="50" alt="Python" />
+        <br><b>Python</b>
+      </td>
+      
+      <!-- Ícone 2: MySQL -->
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50" height="50" alt="MySQL" />
+        <br><b>MySQL</b>
+      </td>
+      
+      <!-- Ícone 3: Git -->
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" height="50" alt="Git" />
+        <br><b>Git</b>
+      </td>
+      
+      <!-- Ícone 4: GitHub -->
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" height="50" alt="GitHub" />
+        <br><b>GitHub</b>
+      </td>
+      
+      <!-- Ícone 5: GitHub Actions -->
+      <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="50" height="50" alt="GitHub Actions" />
+        <br><b>Actions</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
