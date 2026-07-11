@@ -47,13 +47,15 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ### 🛠️ Stack Tecnológico & Ferramentas
 
 <div align="center">
-  <!-- Linha 1: Core, Frameworks e Bancos de Dados (8 ícones) -->
+  <!-- Linha 1: Core, Frameworks e Bancos de Dados -->
   <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,mysql,postgres,git&theme=dark" height="50" alt="Tech Stack Linha 1" />
   
   <br/>
   
-  <!-- Linha 2: Ferramentas, Ambientes, DevOps e Produtividade (8 ícones corrigidos) -->
-  <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,pycharm,visualstudio,windows,trello,canva&theme=dark" height="50" alt="Tech Stack Linha 2" />
+  <!-- Linha 2: Ferramentas, Ambientes, DevOps e Produtividade (Com Trello e Canva corrigidos) -->
+  <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,pycharm,visualstudio,windows&theme=dark" height="50" alt="Tech Stack Linha 2" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="50" alt="Trello" style="vertical-align: middle; border-radius: 10px; margin-left: -4px;" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="50" alt="Canva" style="vertical-align: middle; border-radius: 10px; margin-left: -4px;" />
 </div>
 
 ---
