@@ -43,28 +43,11 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ### 💻 Tecnologias que Manipulo:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🛠️ Stack Tecnológico & Ferramentas
+### 🛠️ Stack Tecnológico & Ferramentas
 
-<div align="center">
-
-  <!-- Core & Linguagens -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  
-  <!-- Banco de Dados -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
-  <!-- Interface & Gráficos -->
-  <img src="https://img.shields.io/badge/Tkinter-💡-00599C?style=for-the-badge" alt="Tkinter" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  
-  <!-- Engenharia de QA & DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  
-  <!-- Ferramentas de Gestão & Criação -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
-
+<div align="left">
+  <!-- Ícones em Grid Quadrado com Bordas (Padrão Tokyo Night) -->
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,githubactions,trello&theme=dark&perline=6" alt="Meu Stack Tecnológico" />
 </div>
 
 ---
