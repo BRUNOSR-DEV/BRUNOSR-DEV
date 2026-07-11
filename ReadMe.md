@@ -47,32 +47,36 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 ### 🛠️ Stack Tecnológico & Ferramentas
 
-<div align="center" style="display: inline-block;">
-  <!-- Bloco Python -->
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="30" height="50" alt="Python" />
-    <b>Python</b>
-  </div>
-  <!-- Bloco MySQL -->
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="30" height="50" alt="MySQL" />
-    <b>MySQL</b>
-  </div>
-  <!-- Bloco Git -->
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="30" height="50" alt="Git" />
-    <b>Git</b>
-  </div>
-  <!-- Bloco GitHub -->
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30" height="50" alt="GitHub" />
-    <b>GitHub</b>
-  </div>
-  <!-- Bloco GitHub Actions -->
-  <div style="display: inline-block; text-align: center; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="30" height="50" alt="GitHub Actions" />
-    <b>Actions</b>
-  </div>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr style="border: none;">
+      <!-- Bloco Python -->
+      <td align="center" width="100" style="border: none; background: none;">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40" height="40" alt="Python" />
+        <br><b>Python</b>
+      </td>
+      <!-- Bloco MySQL -->
+      <td align="center" width="100" style="border: none; background: none;">
+        <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" height="40" alt="MySQL" />
+        <br><b>MySQL</b>
+      </td>
+      <!-- Bloco Git -->
+      <td align="center" width="100" style="border: none; background: none;">
+        <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" alt="Git" />
+        <br><b>Git</b>
+      </td>
+      <!-- Bloco GitHub -->
+      <td align="center" width="100" style="border: none; background: none;">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub" />
+        <br><b>GitHub</b>
+      </td>
+      <!-- Bloco GitHub Actions -->
+      <td align="center" width="100" style="border: none; background: none;">
+        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" height="40" alt="GitHub Actions" />
+        <br><b>Actions</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
