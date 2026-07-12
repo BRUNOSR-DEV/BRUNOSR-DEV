@@ -271,6 +271,7 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
   <br>
   <h4>🎮 No Meu Setup (Xbox)</h4>
   <img src="DOCS/perfil_xbox.png" width="500"  alt="Code Matrix" />
+  <br>
   <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni%20Dekel" target="_blank">
     <img src="https://img.shields.io/badge/Xbox_Live-Oni%20Dekel-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="40" alt="Xbox Profile" />
   </a>
