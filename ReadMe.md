@@ -226,7 +226,7 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
   </a>
 
   <!-- WhatsApp (Lembre-se de ajustar o DDD e número se for usar o link) -->
-  <a href="https://wa.me/55DDDSEUNUMERO?text=Olá,%20Bruno!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
+  <a href="https://wa.me/5511964824753?text=Olá,%20Bruno!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp logo" />
   </a>
 
@@ -249,7 +249,7 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
     <tr style="border: none;">
       <!-- COLUNA 1: Perfil -->
       <td align="left" valign="top" style="border: none; background: none;" width="60%">
-          <h4>📷 Perfil do Instagram</h4>
+          <h5>📷 Perfil do Instagram</h5>
           <br/>
           <img src="DOCS/print_insta.png" width="400" alt="Perfil" />
           <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
@@ -276,9 +276,5 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
   </a>
 
 </div>
-
-
-
-
 
 
