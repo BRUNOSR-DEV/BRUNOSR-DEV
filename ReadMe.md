@@ -252,7 +252,7 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
         <details>
           <summary><b>📷 Perfil do Instagram</b></summary>
           <br/>
-          <img src="DOCS/print_insta.png" width="280" alt="Perfil" />
+          <img src="DOCS/print_insta.png" width="300" alt="Perfil" />
           <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
           </a>
@@ -276,7 +276,7 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
   <br/><br/>
   <h4>🎮 No Meu Setup (Xbox)</h4>
   <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni%20Dekel" target="_blank">
-    <img src="https://xblstatus.com/card/gamertag/Oni%20Dekel.png" alt="Xbox Gamercard" width="320" />
+    <img src="https://img.shields.io/badge/Xbox_Live-Oni%20Dekel-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="40" alt="Xbox Profile" />
   </a>
 
 </div>
