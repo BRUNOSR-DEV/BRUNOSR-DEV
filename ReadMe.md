@@ -53,9 +53,9 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
   <br>
 
   <!-- Linha 2: -->
-  <img src="DOCS/devicon-master/devicon-master/icons/trello/trello-original.svg" height="47" alt="Trello" style="vertical-align: middle;" />
-  <img src="DOCS/devicon-master/devicon-master/icons/canva/canva-original.svg" height="47" alt="Canva" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,pycharm,visualstudio&theme=dark" height="35" alt="Suporte Stack" style="vertical-align: middle;" />
+  <img src="DOCS/devicon-master/devicon-master/icons/trello/trello-original.svg" height="45" alt="Trello" style="vertical-align: middle;" />
+  <img src="DOCS/devicon-master/devicon-master/icons/canva/canva-original.svg" height="45" alt="Canva" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,pycharm,visualstudio&theme=dark" height="30" alt="Suporte Stack" style="vertical-align: middle;" />
 
 </div>
 
@@ -217,7 +217,7 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
 
 ---
 
-### 📳​ ​Conecte-se Comigo
+### 📲​ ​Conecte-se Comigo
 
 <div data-importer="socials" align="center">
   <!-- LinkedIn -->
@@ -225,7 +225,7 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo" />
   </a>
 
-  <!-- WhatsApp -->
+  <!-- WhatsApp (Lembre-se de ajustar o DDD e número se for usar o link) -->
   <a href="https://wa.me/55DDDSEUNUMERO?text=Olá,%20Bruno!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp logo" />
   </a>
@@ -235,47 +235,50 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook logo" />
   </a>
 
+</div>
+
 ---
 
-###  Além do Código: Identidade Visual & Lifestyle
+### 👽 Além do Código: Identidade Visual & Lifestyle
 Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
 
 <div align="center">
 
-  <h4> Perfil do Instagram </h4>
+  <!-- Links e Toggles Interativos -->
   <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
   </a>
 
-    <!-- imagem instagram -->
-  <img src="DOCS/print_insta.png" width="300"  alt="Perfil" />
-</div>
+  <br/><br/>
 
+  <details>
+    <summary><b>📷 Perfil do Instagram</b></summary>
+    <br/>
+    <img src="DOCS/print_insta.png" width="300" alt="Perfil" />
+  </details>
 
-<div align="center">
-  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
-  <h4>🏋️‍♂️ Saúde física e mental. </h4>
+  <details>
+    <summary><b>🏋️‍♂️ Saúde Física e Mental</b></summary>
+    <br/>
+    <img src="DOCS/metrica_constancia.jpeg" width="300" alt="Metricas de Constância" />
+  </details>
 
-    <!-- imagem total pass -->
-  <img src="DOCS/metrica_constancia.jpeg" width="300"  alt="Metricas de Constância" />
-</div>
+  <br/>
 
-
-<div align="center">
-  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
+  <!-- Seção de Mídia e Jogos -->
   <h4>🎵 No Meu Fone de Ouvido</h4>
-
+  
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
-</div>
 
-<div align="center">
-  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
+  <br/><br/>
+
   <h4>🎮 No Meu Setup (Xbox)</h4>
-
   <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni%20Dekel" target="_blank">
-      <img src="https://xblstatus.com/card/gamertag/Oni%20Dekel.png" alt="Xbox Gamercard" width="350" />
+    <img src="https://xblstatus.com/card/gamertag/Oni%20Dekel.png" alt="Xbox Gamercard" width="350" />
   </a>
+
 </div>
+
 
 
 
