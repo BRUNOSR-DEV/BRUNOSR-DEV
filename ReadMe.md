@@ -234,16 +234,43 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
 
-  <!-- Gmail (Abre o app de e-mail automaticamente para te mandar mensagem) -->
-  <a href="mailto:seu-email@provedor.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+</div>
+
+---
+
+### 👽 Além do Código: Identidade Visual & Lifestyle
+Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
+
+`💡Clique nos menus abaixo para ver as mídias:💡`
+<div align="center">
+
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tr style="border: none;">
+      <!-- COLUNA 1: Perfil -->
+      <td align="left" valign="top" style="border: none; background: none;" width="60%">
+          <h5>📷 Perfil do Instagram</h5>
+          <br/>
+          <img src="DOCS/print_insta.png" width="400" alt="Perfil" />
+          <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
+          </a>
+      </td>
+      <!-- COLUNA 2: Fitness-->
+      <td align="left" valign="top" style="border: none; background: none;" width="40%">
+          <h5>🏋️‍♂️ Saúde Física e Mental - Métrica Pelo TotalPass</h5>
+          <br/>
+          <img src="DOCS/metrica_constancia.jpeg" width="300" alt="Métricas de Constância" />
+      </td>
+    </tr>
+  </table>
 
   <!-- Youtube (Substitua LINK_DO_CANAL) -->
   <a href="https://www.youtube.com/LINK_DO_CANAL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
   </a>
 </div>
+
+</details>
 
 <br/>
 
