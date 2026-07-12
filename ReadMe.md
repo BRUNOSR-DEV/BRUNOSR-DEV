@@ -247,30 +247,26 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
 
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr style="border: none;">
-      <!-- COLUNA 1: PROVAS DE CONSTÂNCIA (INTERATIVO) -->
-      <td align="left" valign="top" style="border: none; background: none;" width="50%">
-        <details>
-          <summary><b>📷 Perfil do Instagram</b></summary>
+      <!-- COLUNA 1: Perfil -->
+      <td align="left" valign="top" style="border: none; background: none;" width="60%">
+          <h4>📷 Perfil do Instagram</h4>
           <br/>
-          <img src="DOCS/print_insta.png" width="300" alt="Perfil" />
+          <img src="DOCS/print_insta.png" width="400" alt="Perfil" />
           <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
           </a>
-        </details> 
       </td>
       <!-- COLUNA 2: Fitness-->
-      <td align="left" valign="top" style="border: none; background: none;" width="50%">
-        <details>
-          <summary><b>🏋️‍♂️ Saúde Física e Mental - Métrica Pelo TotalPass</b></summary>
+      <td align="left" valign="top" style="border: none; background: none;" width="40%">
+          <h5>🏋️‍♂️ Saúde Física e Mental - Métrica Pelo TotalPass</h5>
           <br/>
-          <img src="DOCS/metrica_constancia.jpeg" width="280" alt="Metricas de Constância" />
-        </details>
+          <img src="DOCS/metrica_constancia.jpeg" width="300" alt="Métricas de Constância" />
       </td>
     </tr>
   </table>
 
   <h4>🎵 No Meu Fone de Ouvido</h4>
-  
+
   ![Spotfy recently](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
   <br>
   <h4>🎮 No Meu Setup (Xbox)</h4>
