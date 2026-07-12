@@ -243,12 +243,6 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
 Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
 
 <div align="center">
-  <!-- Link do Instagram no Topo como Destaque -->
-  <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
-  </a>
-
-  <br/><br/>
 
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr style="border: none;">
@@ -260,6 +254,9 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
           <summary><b>📷 Perfil do Instagram</b></summary>
           <br/>
           <img src="DOCS/print_insta.png" width="280" alt="Perfil" />
+          <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
+          </a>
         </details>
         <br/>
         <details>
