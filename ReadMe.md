@@ -235,60 +235,49 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook logo" />
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/sr.brunnO" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
-  </a>
-</div>
-
 ---
 
-### 🎧 Meu Spotify & Identidade Visual
+###  Além do Código: Identidade Visual & Lifestyle
+Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
+
+<div align="center">
+
+  <h4> Perfil do Instagram </h4>
+  <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
+  </a>
+
+    <!-- imagem instagram -->
+  <img src="DOCS/print_insta.png" width="300"  alt="Perfil" />
+</div>
+
 
 <div align="center">
   <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
+  <h4>🏋️‍♂️ Saúde física e mental. </h4>
+
+    <!-- imagem total pass -->
+  <img src="DOCS/metrica_constancia.jpeg" width="300"  alt="Metricas de Constância" />
+</div>
+
+
+<div align="center">
+  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
+  <h4>🎵 No Meu Fone de Ouvido</h4>
 
   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
 </div>
 
-###  Além do Código: Identidade Visual & Lifestyle
-
-Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
-
 <div align="center">
-  <!-- Badges de Estilo de Vida Estáticos Corrigidos -->
-  <img src="https://img.shields.io/badge/Gym_Rat-5x_Week_🏋️‍♂️-black?style=flat-square" alt="Academia" />
-  <img src="https://img.shields.io/badge/Always_Learning-🧠-black?style=flat-square" alt="Aprendendo Algo Novo" />
-  
-  <a href="https://www.instagram.com/sr.brunnO" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
+  <h4>🎮 No Meu Setup (Xbox)</h4>
+
+  <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni%20Dekel" target="_blank">
+      <img src="https://xblstatus.com/card/gamertag/Oni%20Dekel.png" alt="Xbox Gamercard" width="350" />
   </a>
 </div>
 
-<br/>
 
-<div align="center">
-  <table border="0" cellpadding="10" cellspacing="0">
-    <tr style="border: none;">
-      <!-- COLUNA 1: SPOTIFY (Suas músicas recentes) -->
-      <td align="center" valign="top" style="border: none; background: none;">
-        <h4>🎵 No Meu Fone de Ouvido</h4>
-        <!-- Cole aqui o código/iframe do seu widget do Spotify atual -->
-        <a href="https://open.spotify.com/user/SEU_USER_DO_SPOTIFY" target="_blank">
-          <img src="https://novatide.vercel.app/api/spotify" alt="Spotify Atividade" width="350" />
-        </a>
-      </td>
-    <!-- COLUNA 2: XBOX (Seu perfil de anos de jogatina) -->
-      <td align="center" valign="top" style="border: none; background: none;">
-        <h4>🎮 No Meu Setup (Xbox)</h4>
-        <!-- Widget dinâmico com sua Gamertag do Xbox -->
-        <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni_Dekel" target="_blank">
-          <img src="https://xblstatus.com/card/gamertag/Oni_Dekel.png" alt="Xbox Gamercard" width="350" />
-        </a>
-      </td> 
-    </tr>
-  </table>
-</div>
 
 
 
