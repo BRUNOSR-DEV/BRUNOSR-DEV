@@ -48,14 +48,14 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 
 <div align="center">
   <!-- Linha 1: Core, Frameworks e Bancos de Dados -->
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css,mysql,postgres,git&theme=dark" height="40" alt="Tech Stack Linha 1" />
-  
-  <br/>
+   <img src="DOCS/devicon-master/devicon-master/icons/trello/trello-original.svg" height="50" alt="Trello" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,githubactions,django,vscode,windows&theme=dark" height="50" alt="Core Stack" />
+  <img src="DOCS/devicon-master/devicon-master/icons/canva/canva-original.svg" height="50" alt="Canva" style="vertical-align: middle;" />
   
   <!-- Linha 2: Ferramentas, Ambientes, DevOps e Produtividade (Local Assets) -->
-  <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,pycharm,visualstudio,windows&theme=dark" height="40" alt="Tech Stack Linha 2" style="vertical-align: middle;" />
-  <img src="DOCS/devicon-master/devicon-master/icons/trello/trello-original.svg" height="40" alt="Trello" style="vertical-align: middle;" />
-  <img src="DOCS/devicon-master/devicon-master/icons/canva/canva-original.svg" height="40" alt="Canva" style="vertical-align: middle;" />
+   
+  <<img src="https://skillicons.dev/icons?i=javascript,html,css,pycharm,visualstudio&theme=dark" height="35" alt="Suporte Stack" style="vertical-align: middle;" />
+
 </div>
 
 ---
