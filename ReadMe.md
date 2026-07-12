@@ -242,14 +242,13 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
 ### 👽 Além do Código: Identidade Visual & Lifestyle
 Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
 
+`💡Clique nos menus abaixo para ver as mídias:💡`
 <div align="center">
 
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr style="border: none;">
       <!-- COLUNA 1: PROVAS DE CONSTÂNCIA (INTERATIVO) -->
       <td align="left" valign="top" style="border: none; background: none;" width="50%">
-        <h4>🧗 Bastidores & Rotina</h4>
-        <p>Clique nos menus abaixo para ver as mídias:</p>
         <details>
           <summary><b>📷 Perfil do Instagram</b></summary>
           <br/>
@@ -270,7 +269,7 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
     </tr>
   </table>
 
-  <h6>🎵 No Meu Fone de Ouvido</h6>
+  <h4>🎵 No Meu Fone de Ouvido</h4>
 
   ![Spotfy recently](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
 
