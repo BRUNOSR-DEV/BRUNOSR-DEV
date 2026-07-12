@@ -270,11 +270,11 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
   </table>
 
   <h4>🎵 No Meu Fone de Ouvido</h4>
-
+  
   ![Spotfy recently](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
-
-  <br/><br/>
+  <br>
   <h4>🎮 No Meu Setup (Xbox)</h4>
+  <img src="DOCS/perfil_xbox.png" width="500"  alt="Code Matrix" />
   <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni%20Dekel" target="_blank">
     <img src="https://img.shields.io/badge/Xbox_Live-Oni%20Dekel-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="40" alt="Xbox Profile" />
   </a>
