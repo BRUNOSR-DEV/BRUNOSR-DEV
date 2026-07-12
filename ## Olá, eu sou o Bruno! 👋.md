@@ -89,3 +89,46 @@ Meu projeto mais recente reflete a maturidade técnica que aplico no meu dia a d
 * **LinkedIn:** [Seu Nome no LinkedIn](https://linkedin.com/in/seu-perfil)
 * **Quadro Trello de Projetos:** [Acompanhe minha gestão ágil](https://trello.com/b/PaYLzi3t/appfinanceiro)
 * **E-mail:** [seu-email@provedor.com]
+
+
+
+### 👽 Além do Código: Identidade Visual & Lifestyle
+Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
+
+<div align="center">
+
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tr style="border: none;">
+      <!-- COLUNA 1: PROVAS DE CONSTÂNCIA (INTERATIVO) -->
+      <td align="left" valign="top" style="border: none; background: none;" width="50%">
+        <h4>📸 Bastidores & Rotina</h4>
+        <p>Clique nos menus abaixo para ver as mídias:</p>
+        <details>
+          <summary><b>📷 Perfil do Instagram</b></summary>
+          <br/>
+          <img src="DOCS/print_insta.png" width="280" alt="Perfil" />
+          <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
+          </a>
+        </details>
+        <br/>
+        <details>
+          <summary><b>🏋️‍♂️ Saúde Física e Mental - Métrica Pelo TotalPass</b></summary>
+          <br/>
+          <img src="DOCS/metrica_constancia.jpeg" width="280" alt="Metricas de Constância" />
+        </details>
+      </td>
+      <!-- COLUNA 2: MÍDIA E JOGOS (DINÂMICO) -->
+      <td align="center" valign="top" style="border: none; background: none;" width="50%">
+        <h4>🎵 No Meu Fone de Ouvido</h4>
+          
+  ![Spotfy recently](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
+        <br/><br/>
+        <h4>🎮 No Meu Setup (Xbox)</h4>
+        <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni%20Dekel" target="_blank">
+          <img src="https://xblstatus.com/card/gamertag/Oni%20Dekel.png" alt="Xbox Gamercard" width="320" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
