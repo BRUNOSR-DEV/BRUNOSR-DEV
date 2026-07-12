@@ -241,8 +241,16 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
 ### 👽 Além do Código: Identidade Visual & Lifestyle
 Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
 
+<<<<<<< HEAD
 `💡Clique nos menus abaixo para ver as mídias:💡`
 <div align="center">
+=======
+`💡Clique/Toque no texto abaixo para expandir os detalhes:💡`
+<details>
+  <summary><b><strong>Bruno Lifestyle - 👈Click</strong></b></summary>
+
+  <div align="center">
+>>>>>>> ae7a2df (docs: atualiza readme...)
 
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr style="border: none;">
