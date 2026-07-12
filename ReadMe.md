@@ -44,16 +44,16 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 -->
 
-### 🛠️ Stack Tecnológico & Ferramentas
+### 🛠️ Pilha Tecnológica & Ferramentas
 
 <div align="center">
   <!-- Linha 1: Core, Frameworks e Bancos de Dados -->
-  <img src="DOCS/devicon-master/devicon-master/icons/trello/trello-original.svg" height="47" alt="Trello" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,githubactions,django&theme=dark" height="50" alt="Core Stack" />
+  
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,githubactions,django,vscode,windows&theme=dark" height="50" alt="Core Stack" />
   <br>
 
   <!-- Linha 2: -->
-  <img src="https://skillicons.dev/icons?i=vscode,windows&theme=dark" height="50" alt="Core Stack" />
+  <img src="DOCS/devicon-master/devicon-master/icons/trello/trello-original.svg" height="47" alt="Trello" style="vertical-align: middle;" />
   <img src="DOCS/devicon-master/devicon-master/icons/canva/canva-original.svg" height="47" alt="Canva" style="vertical-align: middle;" />
   <img src="https://skillicons.dev/icons?i=javascript,html,css,pycharm,visualstudio&theme=dark" height="35" alt="Suporte Stack" style="vertical-align: middle;" />
 
@@ -258,17 +258,15 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
 
 <div align="center">
   <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
 </div>
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
+<!--
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&count={count})
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&width={width})
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&unique={true|1|on|yes})
-
+-->
 ---
 
 
