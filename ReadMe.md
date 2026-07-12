@@ -244,7 +244,7 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
 
 `💡Clique/Toque no texto abaixo para expandir os detalhes:💡`
 <details>
-  <summary><b><strong>Bruno Lifestyle</strong></b></summary>
+  <summary><b><strong>Bruno Lifestyle - 👈Click</strong></b></summary>
 
   <div align="center">
 
