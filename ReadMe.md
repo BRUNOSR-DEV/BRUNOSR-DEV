@@ -292,4 +292,48 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
   <img src="https://img.shields.io/badge/See_You_Space_Cowboy...-🛸-red?style=for-the-badge&labelColor=black" alt="Até Logo" />
 </div>
 
+<div align="center">
+
+  <table border="0" cellpadding="10" cellspacing="0" width="100%">
+    <tr style="border: none;">
+      <!-- COLUNA 1: Perfil -->
+      <td align="left" valign="top" style="border: none; background: none;" width="60%">
+          <h5>📷 Perfil do Instagram</h5>
+          <br/>
+          <img src="DOCS/print_insta.png" width="400" alt="Perfil" />
+          <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
+          </a>
+      </td>
+      <!-- COLUNA 2: Fitness-->
+      <td align="left" valign="top" style="border: none; background: none;" width="40%">
+          <h5>🏋️‍♂️ Saúde Física e Mental - Métrica Pelo TotalPass</h5>
+          <br/>
+          <img src="DOCS/metrica_constancia.jpeg" width="300" alt="Métricas de Constância" />
+      </td>
+    </tr>
+  </table>
+
+  <h4>🎵 No Meu Fone de Ouvido</h4>
+
+  ![Spotfy recently](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
+  <br>
+  <h4>🎮 No Meu Setup (Xbox)</h4>
+  <img src="DOCS/perfil_xbox.png" width="500"  alt="Code Matrix" />
+  <br>
+  <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni%20Dekel" target="_blank">
+    <img src="https://img.shields.io/badge/Xbox_Live-Oni%20Dekel-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="40" alt="Xbox Profile" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p>🚀 Obrigado por chegar até aqui! Se curtiu o meu perfil ou tem algum projeto em mente, não hesite em se conectar.</p>
+
+  <!-- Badge Estilizado de Agradecimento e Despedida -->
+  <img src="https://img.shields.io/badge/Status-Obrigado_Pela_Visita_🤝-black?style=for-the-badge&logoColor=red" alt="Agradecimento" />
+  <img src="https://img.shields.io/badge/See_You_Space_Cowboy...-🛸-red?style=for-the-badge&labelColor=black" alt="Até Logo" />
+</div>
+
 
