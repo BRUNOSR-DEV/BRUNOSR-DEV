@@ -13,7 +13,7 @@ Com mais de 130 dias de consistência ininterrupta em projetos pessoais, possuo 
 
 ---
 
-### ⚡ Além do Código (Meus Hobbies & Paixões)
+### 👽 Além do Código (Meus Hobbies & Paixões)
 
 Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira contra o débito técnico, você com certeza vai me encontrar: 
 
@@ -39,6 +39,7 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 </details>
 
 ---
+
 <!--
 ### 💻 Tecnologias que Manipulo:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -123,6 +124,11 @@ A área de desenvolvimento de software é inegavelmente difícil; ela pune o ama
 </details>
 
 <details>
+  <summary><b>💾 Persistência & Motor CRUD</b></summary>
+  <p>Arquitetura back-end totalmente estruturada sobre operações completas de **CRUD Relacional** (Criação, Consulta, Atualização e Exclusão de registros financeiros) com validações severas de integridade de dados e segurança de criptografia no MySQL.</p>
+</details>
+
+<details>
   <summary><b>🔒 Segurança Baseada em Bcrypt</b></summary>
   <p>Proteção real de dados com hashing assimétrico de senhas e um mecanismo inteligente de migração automática e transparente de credenciais legadas no primeiro login do usuário.</p>
 </details>
@@ -170,8 +176,13 @@ Ferramentas e competências engenheiradas no meu dia a dia. Foco em dominar regr
 </details>
 
 <details>
-  <summary><b>🛢️ Engenharia de Dados: <strong>MySQL Relacional</strong></b></summary>
+  <summary><b>🎲​ Engenharia de Dados: <strong>MySQL Relacional</strong></b></summary>
   <p>Concepção, modelagem e design completo da infraestrutura de dados. Desenvolvimento de Diagramas de Entidade-Relacionamento (DER), mapeamento de cardinalidade (1:N), chaves primárias/estrangeiras e constraints de integridade referencial. Construção de queries otimizadas via código Python nativo.</p>
+</details>
+
+<details>
+  <summary><b>💾 Persistência & Operações: <strong>CRUD Relacional</strong></b></summary>
+  <p>Domínio completo no desenvolvimento de motores CRUD (Create, Read, Update, Delete) estáveis, aplicando regras de negócio severas para garantir a consistência, segurança e a integridade relacional dos dados entre o back-end e o banco de dados.</p>
 </details>
 
 <details>
@@ -242,11 +253,7 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
 ### 👽 Além do Código: Identidade Visual & Lifestyle
 Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
 
-`💡Clique/Toque no texto abaixo para expandir os detalhes:💡`
-<details>
-  <summary><b><strong>Bruno Lifestyle - 👈Click</strong></b></summary>
-
-  <div align="center">
+<div align="center">
 
   <table border="0" cellpadding="10" cellspacing="0" width="100%">
     <tr style="border: none;">
@@ -279,8 +286,6 @@ Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, h
     <img src="https://img.shields.io/badge/Xbox_Live-Oni%20Dekel-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="40" alt="Xbox Profile" />
   </a>
 </div>
-
-</details>
 
 <br/>
 
