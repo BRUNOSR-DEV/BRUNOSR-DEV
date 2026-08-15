@@ -45,17 +45,18 @@ Nem só de linhas de código vive um engenheiro! Quando não estou na trincheira
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 -->
 
-### 🛠️ Stack Tecnológico & Ferramentas
+### 🛠️ Pilha Tecnológica & Ferramentas
 
 <div align="center">
   <!-- Linha 1: Core, Frameworks e Bancos de Dados -->
-   <img src="DOCS/devicon-master/devicon-master/icons/trello/trello-original.svg" height="50" alt="Trello" style="vertical-align: middle;" />
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,githubactions,django,vscode,windows&theme=dark" height="50" alt="Core Stack" />
-  <img src="DOCS/devicon-master/devicon-master/icons/canva/canva-original.svg" height="50" alt="Canva" style="vertical-align: middle;" />
   
-  <!-- Linha 2: Ferramentas, Ambientes, DevOps e Produtividade (Local Assets) -->
-   
-  <<img src="https://skillicons.dev/icons?i=javascript,html,css,pycharm,visualstudio&theme=dark" height="35" alt="Suporte Stack" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,githubactions,django,vscode,windows&theme=dark" height="50" alt="Core Stack" />
+  <br>
+
+  <!-- Linha 2: -->
+  <img src="DOCS/devicon-master/devicon-master/icons/trello/trello-original.svg" height="45" alt="Trello" style="vertical-align: middle;" />
+  <img src="DOCS/devicon-master/devicon-master/icons/canva/canva-original.svg" height="45" alt="Canva" style="vertical-align: middle;" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,pycharm,visualstudio&theme=dark" height="30" alt="Suporte Stack" style="vertical-align: middle;" />
 
 </div>
 
@@ -227,96 +228,49 @@ Alguns dos próximos marcos estratégicos traçados para a consolidação da min
 
 ---
 
-### 🤝 Conecte-se Comigo
+### 📲​ ​Conecte-se Comigo
 
 <div data-importer="socials" align="center">
-  <!-- LinkedIn (Já configurado com o seu link) -->
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/bruno-s-rodrigues-bruno-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn logo" />
   </a>
 
-  <!-- Instagram (Substitua SEU_USER pelo seu @ do insta) -->
-  <a href="https://www.instagram.com/SEU_USER" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <!-- WhatsApp (Lembre-se de ajustar o DDD e número se for usar o link) -->
+  <a href="https://wa.me/5511964824753?text=Olá,%20Bruno!%20Vi%20o%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp logo" />
   </a>
 
-  <!-- Discord (Substitua SEU_CONVITE ou link do perfil) -->
-  <a href="https://discord.gg/SEU_CONVITE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <!-- Outlook -->
+  <a href="mailto:bruno77_sr@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" height="35" alt="Outlook logo" />
   </a>
 
-</div>
+  <!-- Gmail (Abre o app de e-mail automaticamente para te mandar mensagem) -->
+  <a href="mailto:seu-email@provedor.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
 
----
+  <h4>🎵 No Meu Fone de Ouvido</h4>
 
-### 👽 Além do Código: Identidade Visual & Lifestyle
-Esta seção é dedicada a quem deseja conhecer os bastidores da minha rotina, hobbies e o que me move fora do ambiente de desenvolvimento.
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-`💡Clique nos menus abaixo para ver as mídias:💡`
-<div align="center">
-=======
-`💡Clique/Toque no texto abaixo para expandir os detalhes:💡`
-<details>
-  <summary><b><strong>Bruno Lifestyle - 👈Click</strong></b></summary>
-
-  <div align="center">
->>>>>>> ae7a2df (docs: atualiza readme...)
-=======
-<div align="center">
->>>>>>> 16b445c (docs: readme atualizado...)
-
-  <table border="0" cellpadding="10" cellspacing="0" width="100%">
-    <tr style="border: none;">
-      <!-- COLUNA 1: Perfil -->
-      <td align="left" valign="top" style="border: none; background: none;" width="60%">
-          <h5>📷 Perfil do Instagram</h5>
-          <br/>
-          <img src="DOCS/print_insta.png" width="400" alt="Perfil" />
-          <a href="https://www.instagram.com/sr.bruno_tech" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram logo" />
-          </a>
-      </td>
-      <!-- COLUNA 2: Fitness-->
-      <td align="left" valign="top" style="border: none; background: none;" width="40%">
-          <h5>🏋️‍♂️ Saúde Física e Mental - Métrica Pelo TotalPass</h5>
-          <br/>
-          <img src="DOCS/metrica_constancia.jpeg" width="300" alt="Métricas de Constância" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Youtube (Substitua LINK_DO_CANAL) -->
-  <a href="https://www.youtube.com/LINK_DO_CANAL" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  ![Spotfy recently](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
+  <br>
+  <h4>🎮 No Meu Setup (Xbox)</h4>
+  <img src="DOCS/perfil_xbox.png" width="500"  alt="Code Matrix" />
+  <br>
+  <a href="https://account.xbox.com/pt-br/profile?gamertag=Oni%20Dekel" target="_blank">
+    <img src="https://img.shields.io/badge/Xbox_Live-Oni%20Dekel-107C10?style=for-the-badge&logo=xbox&logoColor=white" height="40" alt="Xbox Profile" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  📋 <b>Gestão e Projetos:</b> <a href="https://trello.com/b/PaYLzi3t/appfinanceiro" target="_blank">Quadro Trello do Último Projeto (Acompanhe minha gestão ágil)</a>
+  <p>🚀 Obrigado por chegar até aqui! Se curtiu o meu perfil ou tem algum projeto em mente, não hesite em se conectar.</p>
+
+  <!-- Badge Estilizado de Agradecimento e Despedida -->
+  <img src="https://img.shields.io/badge/Status-Obrigado_Pela_Visita_🤝-black?style=for-the-badge&logoColor=red" alt="Agradecimento" />
+  <img src="https://img.shields.io/badge/See_You_Space_Cowboy...-🛸-red?style=for-the-badge&labelColor=black" alt="Até Logo" />
 </div>
-
----
-
-### 🎧 Meu Spotify & Identidade Visual
-
-<div align="center">
-  <!-- Badges Estilizados de Alta Performance (Estética Dark/Cyberpunk) -->
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-</div>
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12156212958&unique={true|1|on|yes})
-
----
-
 
 
